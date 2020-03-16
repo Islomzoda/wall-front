@@ -1,0 +1,13 @@
+.file {
+  opacity: 0;
+  z-index: -9999;
+}
+.form{  
+  margin-left: 200px;
+  }
+.select{
+  border: 0px solid blue;
+  border-style: ridge;
+  box-shadow: 0px 0px 10px rgba(3, 3, 3,0.4) ;
+  margin: 5px;  
+}
